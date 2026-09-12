@@ -23,3 +23,5 @@ meeting_rooms.db
 Thumbs.db
 .vscode/
 .idea/
+.neon
+node_modules/
